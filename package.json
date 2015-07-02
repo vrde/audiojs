@@ -1,0 +1,19 @@
+{
+  "name": "audiojs",
+  "version": "0.0.1",
+  "description": "A cross-browser javascript wrapper for the html5 audio tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrde/audiojs.git"
+  },
+  "author": "Anthony Kolber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vrde/audiojs/issues"
+  },
+  "homepage": "https://github.com/vrde/audiojs#readme"
+}
